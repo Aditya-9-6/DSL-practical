@@ -1,0 +1,19 @@
+# Binaries & Executables
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# OS and Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
